@@ -7,8 +7,8 @@ function App() {
   return (
     <div className="App">
       <h1>components</h1>
-        <CC />
-        <FC />
+        <CC name="mammad" username="mmd"/>
+        <FC game="paasur"/>
     </div>
   );
 }
